@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Professional Experiences
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: 
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
 
