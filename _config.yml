@@ -2,8 +2,8 @@
 title: Yiting Wang
 subtitle: Portfolio
 email: wangyitingting33@gmail.com
-description: Yiting Wang's portfolio.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+description: Portfolio of Yiting Wang.
+baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Yiting Wang
 street_address: 
